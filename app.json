@@ -1,0 +1,15 @@
+{
+  "name": "Turtle Blog",
+  "description": "Gatsby starter for a Contentful project, modified for turtles.",
+  "keywords": ["contentful", "gatsby", "static", "ssg", "turtle"],
+  "repository": "https://github.com/devmart10/turtle-blog",
+  "success_url": "/",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-static"
+    }
+  ]
+}

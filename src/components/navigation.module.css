@@ -26,4 +26,5 @@
 
 .brand {
   display: inline-flex;
+  margin-left: 1em;
 }
